@@ -1,0 +1,13 @@
+## macOS
+.DS_Store
+
+## Visual Studio
+.vs
+out
+
+## VSCode
+.vccode
+
+# Swift Package Manager
+.swiftpm
+.build/
